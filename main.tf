@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"https://github.com/sureshnandi/testing-terraform/pulls
+  region = "us-east-1"
   access_key = var.taccess_key
   secret_key = var.tsecret_key
 }
